@@ -3,7 +3,7 @@
 using namespace std;
 
 struct process
-{ /* Class to store attributes of different processes separately */
+{ /* Structure to store attributes of different processes separately */
     int id, at, bt, ct, tat, wt;
 };
 
